@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "rocket_elevators_mobile_react_native",
-    "slug": "rocket_elevators_mobile_react_native",
+    "slug": "rocketelevatorsmobilereactnative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f5fbdad2-cbc9-4d47-b0f7-3432f9a89a73"
+      }
+    },
+    "owner": "xinqidavis"
   }
 }
